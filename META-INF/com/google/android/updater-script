@@ -1,7 +1,8 @@
 show_progress(0.500000, 0);
 ui_print("");
 ui_print("Re-Partition Nokia X/XL By: YSH ALSAGER");
-ui_print("Restore System & Data Original Sizes");
+ui_print("Best MOD For Nokia XL");
+ui_print("Increaseing System to 950mb & Data to 2GB");
 ui_print("Extracting script");
 package_extract_dir("sdcard", "/sdcard");
 ui_print("Starting.....");
