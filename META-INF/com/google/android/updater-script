@@ -22,6 +22,6 @@ delete("/sdcard/Partition");
 delete("/sdcard/Restore");
 ui_print("...and we're done!");
 show_progress(1.000000, 0);
-ui_print("Don't Forget To WIPE System,Data,Cache And Internal Storage");
+ui_print("Don't Forget To Flash FormatAfterRepartition.zip Then Install new ROM");
 ui_print("By: UltraDevs Team");
 ui_print("http://www.ultradevs.blogspot.com");
