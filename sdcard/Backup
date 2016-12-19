@@ -1,2 +1,2 @@
-#!/bin/sh
+#!/sbin/sh
 dd if=/dev/block/mmcblk0p20 of=/sdcard/mmcblk0p20.img && dd if=/dev/block/mmcblk0p23 of=/sdcard/mmcblk0p23.img && dd if=/dev/block/mmcblk0p24 of=/sdcard/mmcblk0p24.img && dd if=/dev/block/mmcblk0p25 of=/sdcard/mmcblk0p25.img
